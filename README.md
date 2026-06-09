@@ -14,7 +14,7 @@
 
 ### About
 
-Computer Science graduate based in Bangladesh. I build backend systems, AI-powered pipelines and data-driven tools. My focus is on Python development, API integration and applied Machine Learning, turning complex requirements into clean, scalable solutions.
+I build backend systems, AI-powered pipelines and data-driven tools. My focus is on Python development, API integration and applied Machine Learning, turning complex requirements into clean, scalable solutions.
 
 ---
 
