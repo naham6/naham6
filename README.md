@@ -61,7 +61,7 @@ I build backend systems, AI-powered pipelines and data-driven tools. My focus is
 <div align="center">
 
 <!--![Naham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naham6&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff)-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naham6&layout=donut&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naham6&layout=donut&cache_seconds=1800&hide_border=true)
 
 </div>
 
