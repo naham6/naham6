@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-naham6.netlify.app-black?style=flat-square&logo=netlify)](https://naham6.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-naham6-181717?style=flat-square&logo=github)](https://github.com/naham6)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-naham6-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/)-->
-<!--[![Email](https://img.shields.io/badge/Email-naham001122@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:)-->
+<!--[![Email](https://img.shields.io/badge/Email-naham.com-EA4335?style=flat-square&logo=gmail)](mailto:)-->
 
 </div>
 
@@ -61,7 +61,7 @@ I build backend systems, AI-powered pipelines and data-driven tools. My focus is
 <div align="center">
 
 <!--![Naham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naham6&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff)-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naham6&layout=donut&cache_seconds=1800&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naham6&layout=donut&cache_seconds=1800)
 
 </div>
 
